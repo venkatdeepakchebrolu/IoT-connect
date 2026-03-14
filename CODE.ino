@@ -9,8 +9,8 @@
 #define WIFI_PASSWORD "PASSWORD_HERE"
 
 // Firebase configuration
-#define FIREBASE_HOST "https://ping- pong-esp-default-rtdb.firebaseio.com/"
-#define FIREBASE_AUTH "580f6e6e3fcadd46d"
+#define FIREBASE_HOST "address"
+#define FIREBASE_AUTH "firebase_auth"
 
 // OLED configuration
 #define SCREEN_WIDTH 128
